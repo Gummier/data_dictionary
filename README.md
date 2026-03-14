@@ -6,8 +6,8 @@
 - ID
 [Link](https://www.google.com)
 
-##Student
+## Student
 
-| Attribute | Data Type | Description |Constraint |
+| Attribute | Data Type | Description | Constraint |
 |---|---|---|---|
 | id | INTEGER | Students ID |PK|
