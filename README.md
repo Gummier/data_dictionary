@@ -10,4 +10,4 @@
 
 | Attribute | Data Type | Description | Constraint |
 |---|---|---|---|
-| id | INTEGER | Students ID | PK |
+| id | INTEGER | Students ID |PK|
