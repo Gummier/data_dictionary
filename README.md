@@ -11,3 +11,5 @@
 | Attribute | Data Type | Description | Constraint |
 |---|---|---|---|
 | id | INTEGER | Students ID |PK|
+| student_name | VARCHAR(255) | Names of the students | NN |
+| birth_date | DATE | Birth date of the student | NN |
